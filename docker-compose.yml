@@ -1,0 +1,21 @@
+version: '3'
+services:
+  php:
+    image: registry-vpc.cn-hangzhou.aliyuncs.com/linghit_ops/php:fpm-7.1.7
+    container_name: php
+    restart: unless-stopped
+    ports:
+      - 5620:5620
+    volumes:
+      - /media/code/docker_test/php:/var/www/html
+  nginx:
+    image: registry-vpc.cn-hangzhou.aliyuncs.com/linghit_app/adminapi:1.2.11
+    container_name: nginx
+    restart: unless-stopped
+    depends_on:
+      - php
+    ports:
+      - 9342:9342
+    volumes:
+      - /media/code/docker_test/nginx:/var/www/html
+      - /media/code/docker_test/nginx/adminapi.conf:/etc/nginx/conf.d/adminapi.conf

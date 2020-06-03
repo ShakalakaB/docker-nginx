@@ -1,0 +1,1 @@
+var SelectSearchQuery={_InputTextId:"sb_form_q",Execute:function(){InputText=document.getElementById(this._InputTextId);InputText&&(InputText.focus(),InputText.select(),InputText.onmouseover=function(){InputText.focus()},InputText.onfocus=function(){InputText.select()})}};SelectSearchQuery.Execute()
