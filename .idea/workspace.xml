@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dadfd357-c0e8-44b9-a55d-e3f15928822c" name="Default Changelist" comment="" />
+    <list default="true" id="dadfd357-c0e8-44b9-a55d-e3f15928822c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php/docker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/READMEM.md" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/READMEM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/html.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/10zb895z70spH_-S34cUenfTpzA.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/10zb895z70spH_-S34cUenfTpzA.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/MohyNcCsL9y1DOhEUBymJyO79lg.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/MohyNcCsL9y1DOhEUBymJyO79lg.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/QLDyHgBMOTW5a2dx4lWrHUfqAvU.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/QLDyHgBMOTW5a2dx4lWrHUfqAvU.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/SzKbP_hriHA2Bsr6mGqOL2OgT60.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/SzKbP_hriHA2Bsr6mGqOL2OgT60.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/authorize.html" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/authorize.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/b2jK53ShtA2vbaZAckacg90Gv6k.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/b2jK53ShtA2vbaZAckacg90Gv6k.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/l2UHuOR4F3BEWfbCN2C4C8-dl7I.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/l2UHuOR4F3BEWfbCN2C4C8-dl7I.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/lLG9NqdAJ5JeQEZcL2C_ixuN0Og.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/lLG9NqdAJ5JeQEZcL2C_ixuN0Og.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/p" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/pvPeWsM6If0nFd6ywzvdEGAy-14.br.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/pvPeWsM6If0nFd6ywzvdEGAy-14.br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/qyolg5_1GB3ak1aU2jmKq1nWpMs.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/qyolg5_1GB3ak1aU2jmKq1nWpMs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th(1)" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th(1)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th(2)" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th(2)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th(3)" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th(3)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th(4)" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th(4)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/th(5)" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/th(5)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index_files/vld.gif" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/index_files/vld.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/nginx.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +37,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/laravel/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +144,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1chwFD3AStE7z2x7vcVwSjtIVOB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -144,6 +175,8 @@
       <workItem from="1591064206970" duration="9000" />
       <workItem from="1591113707614" duration="3732000" />
       <workItem from="1591150576378" duration="613000" />
+      <workItem from="1591200249024" duration="3647000" />
+      <workItem from="1591235995567" duration="199000" />
     </task>
     <servers />
   </component>
@@ -151,10 +184,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog" timestamp="1591002700238">
+    <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog" timestamp="1591202040208">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1591002700238" />
+    <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1591202040208" />
     <state x="698" y="456" width="584" height="209" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591114264728">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
