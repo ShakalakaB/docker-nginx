@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dadfd357-c0e8-44b9-a55d-e3f15928822c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php_nginx/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_nginx/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_nginx/nginx1.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_nginx/nginx2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/Dockerfile1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/www.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx_html/READMEM.md" beforeDir="false" afterPath="$PROJECT_DIR$/nginx_html/READMEM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_nginx/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_nginx/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/nginx.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +161,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/php_nginx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/nginx" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel" />
       <recent name="$PROJECT_DIR$/php_nginx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel" />
+      <recent name="$PROJECT_DIR$/nginx" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -173,21 +194,64 @@
       <workItem from="1591290334518" duration="2057000" />
       <workItem from="1591322789692" duration="334000" />
       <workItem from="1591443665891" duration="1328000" />
-      <workItem from="1591458062159" duration="5677000" />
+      <workItem from="1591458062159" duration="5981000" />
+      <workItem from="1591512417398" duration="5772000" />
+      <workItem from="1591544552743" duration="2166000" />
+      <workItem from="1591546950570" duration="376000" />
+      <workItem from="1591631797068" duration="4060000" />
+      <workItem from="1591636028680" duration="28000" />
+      <workItem from="1591668486063" duration="84000" />
+      <workItem from="1591719641517" duration="3156000" />
+      <workItem from="1591755262943" duration="45000" />
+      <workItem from="1591892424999" duration="1664000" />
+      <workItem from="1591927618422" duration="293000" />
+      <workItem from="1592845380808" duration="2117000" />
+      <workItem from="1592929551935" duration="3148000" />
+      <workItem from="1592964800632" duration="17000" />
+      <workItem from="1593182785949" duration="8598000" />
+      <workItem from="1593267294764" duration="6081000" />
+      <workItem from="1593310850472" duration="759000" />
+      <workItem from="1593483079951" duration="199000" />
+      <workItem from="1593603005053" duration="1261000" />
+      <workItem from="1593664493246" duration="1354000" />
+      <workItem from="1593963155281" duration="1214000" />
+      <workItem from="1593998647727" duration="15000" />
+      <workItem from="1594050902312" duration="4593000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog" timestamp="1591202040208">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="761" y="468" width="458" height="185" key="NewPhpFileDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1591202040208" />
-    <state x="698" y="456" width="584" height="209" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591114264728">
+    <state x="698" y="456" width="594" height="209" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594056275024">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state x="698" y="456" width="584" height="209" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1591114264728" />
+    <state x="698" y="456" width="594" height="209" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1594056275024" />
   </component>
 </project>
