@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dadfd357-c0e8-44b9-a55d-e3f15928822c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laravel/Dockerfile1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/www.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_nginx/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_nginx/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/php_nginx/nginx.conf" afterDir="false" />
-    </list>
+    <list default="true" id="dadfd357-c0e8-44b9-a55d-e3f15928822c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,13 +155,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/laravel" />
-      <recent name="$PROJECT_DIR$/php_nginx" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/laravel" />
       <recent name="$PROJECT_DIR$/nginx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel" />
+      <recent name="$PROJECT_DIR$/php_nginx" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -217,6 +208,7 @@
       <workItem from="1593963155281" duration="1214000" />
       <workItem from="1593998647727" duration="15000" />
       <workItem from="1594050902312" duration="4593000" />
+      <workItem from="1594136290098" duration="3610000" />
     </task>
     <servers />
   </component>
